@@ -21,7 +21,6 @@ while True:
     break
   else:
     print("Enter valid number!")
-flag = False
 pX_won = False
 pO_won = False
 
